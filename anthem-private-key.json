@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "anthem-2017",
+  "private_key_id": "4c21ef7ae0eb80ddf84a713cac536d67551963e3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDG3E4xx1SyxxWM\nwPIt2Fo5VDax9vHc+iuD2ZfQBQ3oX0NdVREmOGtgn0kNZqi+u/ZjymWHZZGReNAj\n7NtbG5S80b0SlCYFfqQnq6UvStMG292d4DvG5YzwTjRkT/FYnwxJz01YQxIR5yx8\n37Wx8Fq5oS/vTch7MZNwIQE38Mg9trv4ICy16TKqqH3KqvOzLFTGzENkJehgXzIk\ng/n9+ahBUENXbTm1Jq5gbqLX+6p2WKnOdTy1yGPJ2IWE1nb+4Sq+WuU9LP5xH+C1\n7g+YLlsG5yl8hOGrGCEUts3nhMWut9nYfDfz02153ZwmSnE2ELAeze71eUTIcsfz\n+46q0TodAgMBAAECggEAIiv71OJ9q735tkb2psmhkW3m+zRl8fTcUusqgwDHV8m8\n8/YY/RIfY4pjnYWpVCNNDu9Z/IcH2XFjBPVf6VtHNx4siRuDoBiXwUhl2YdYVXql\nLcq5Qu+xxR6PMripDrNAA5P3pMXbvk9VDf1MRfA5SuJHsC3T2FWX0iIdyTzbT/0/\nv4taMP3bPig8o2FAyCo3z4nl1FnCBEMMRW2v8ZrchqKhaXO0YTmmUkK/vbbKLFaq\newoxJhvvyDdUjU5HeqZX90uh3W28FNaYFm8Edic7VjoR0qCLB8ZUbbH9/CR3IX6S\noEIRreVGZFvNWOmh5MFjojAAx4Eoh2GGK/lY0zCz2QKBgQDxCgyhfvSDeWDDRZtM\nmyeIuXrniwGpIVrxu9/Tf4ua+O+T06MmrR2HX6OxVQy/TBH8i+GGZcJYWRyigixG\nDPKNVZ5prr+mcVEywpwAqqDJU3gHnbu/lB0H/qebq8Ij+jGKx7oOjXnjzGWUtYRB\n1QS8Ch6KMteXxcHwpu0RxoMedQKBgQDTNBC4Poez5Fm7LSSET3HQUGfwrdpAmScH\n0BD0EuD1TnGKSK2ldzR723igM1qrg12ffE/Xj/jRNwyllIzQscl1BGg8IhoiOy3J\nEC6PLUzLiYqgFBhGrNIeiRnnjPn7rESzvLV0wDoJTWZZs7sufUpMR0teYkLtyiN1\nlSlWtQuICQKBgA21I5i/joo3ieAxAi7uF+Z3ndyzFAoZQoHCzGzLsRXEGGPQwlN9\nvtMnBjkcfBgY7GDvV4j8GnxJvQ4k1v242MZe2x5peK6vfQ2k8Zg8G963J3lPaBDy\nDGCbA88fim/fV5fr2dHgC9F/mztEw1u3EIjdDnWPhKE19tyHsa20G1rNAoGAWeix\nMW3VIRyVolvuTrDvN4nzJX8tCRDpj6bggLbEs0johsC3w1fCrPNaH4CdGaR7p5go\n+RAeERpJNPfPFkyJAVqV8PtneqkMrapI18SmC4OK0uibCQMrE7qzn2HhTWUhfg5Y\nhNIMIsejSY58oabOiThUemKEMWw6uiR8i5/Yv9kCgYA1HZBq/6IOPzz2Wbx6zSME\n8yaKNyOeUP5MlrsdZD8VmwGa0Atr+ubJMmE8wURms1vORKNKpAZfTdZQSaNAlzMN\nn6pWORRUkQ45h8VSoXpzmtkAymHvBlOvPJqXhc9hcAcm86ugoGtTGsJfR/xhUhOS\nkq/i2cIoGjiOPxM6uCDlgw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "anthemreportingservice-96@anthem-2017.iam.gserviceaccount.com",
+  "client_id": "107312432169162638116",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/anthemreportingservice-96%40anthem-2017.iam.gserviceaccount.com"
+}
