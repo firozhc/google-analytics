@@ -53,6 +53,9 @@ def main():
 
 	auth(url)
 
+	client_id = "366643012552-a3p7mk041c5uehodlvv5bg4fginfjs40.apps.googleusercontent.com"
+	client_secret = "OH6MC4lS5lrg_2fsjGtlHHYi"
+
 
 if __name__=="__main__":
 	main()
